@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Ubuntu";
+    src: url("/fonts/Ubuntu/bold.ttf");
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
